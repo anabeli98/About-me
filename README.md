@@ -1,13 +1,13 @@
 # About-me
 
 
-👋 Hi, I’m @anabeli98
+👋 Hi, I’m @AnabelVazquez
 
 🎓 I´m a biomedical engineer
 
 👀 I’m interested in deep learning aplied on health field
 
-🔎 I’m currently developing a prototipe to take fundus eye images to process them with AI, at the Technic University of Madrid (UPM)
+🔎 I’m currently developing a prototipe to take eye fundus images to process them with AI, at the Technic University of Madrid (UPM)
 
 💞️ I’m looking to collaborate on investigation projects
 
