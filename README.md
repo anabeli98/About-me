@@ -5,14 +5,14 @@
 
 🎓 I´m a biomedical engineer
 
-👀 I’m interested in deep learning aplied on health field
+👀 I’m interested in deep learning aplied to the health field
 
 🔎 I’m currently working at Cella Medical Solutions, developing AI and radiomic solutions applied to medical 3D images
 
 🗂️ Past projects: 
-- develop a prototipe to take eye fundus images to process them with AI, at the Technic University of Madrid (UPM)
-- develop a AI based tool to analyze the psichological profile of patients, at the Technic University of Madrid (UPM)
+- Developed a prototipe to capture eye fundus images for AI processing, at the Technic University of Madrid (UPM)
+- Developed an AI based tool to analyze the psychological profile of patients, at the Technic University of Madrid (UPM)
 
-💞️ I’m looking to collaborate on investigation projects
+💞️ I’m looking to collaborate on research projects
 
-📫 ¿How to reach me? www.linkedin.com/in/anaisabelvazquezgh/
+📫 How to reach me? www.linkedin.com/in/anaisabelvazquezgh/
